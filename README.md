@@ -4,7 +4,7 @@
 > Use web and mobile technology to empower individuals to track, monitor, and observe correlations regarding their chronic health condition. 
 
 ### Purpose
-The goal of this project is to create an application for individuals to track their chronic health conditions over time. They will be able to log how they feel for each log on a varying scale, log medications or treatments they are taking at that time as well as other factors that could affect their condition such as time of year, temperature, humidity, stress levels, eating habits, and physical activity habits.
+The purpose of this project is to create an application for individuals to track their chronic health conditions over time. They will be able to log how they feel for each log on a varying scale, log medications or treatments they are taking at that time as well as other factors that could affect their condition such as time of year, temperature, humidity, stress levels, eating habits, and physical activity habits.
 
 ### Anticipated Technologies
 - React & React Native front end (powered by Typescript)
